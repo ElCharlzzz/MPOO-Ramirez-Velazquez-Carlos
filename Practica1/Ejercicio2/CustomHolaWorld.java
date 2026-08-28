@@ -1,3 +1,4 @@
+//Ramirez Velazquez Carlos
 import java.util.Scanner;
 
 public class CustomHolaWorld{
@@ -7,7 +8,7 @@ public class CustomHolaWorld{
         System.out.print("Escribe tu nombre:");
         String nombre = Scanner.nextLine();
 
-        System.out.println("Hola, " + nombre + "!");
+        System.out.println("Hola, " + nombre);
 
         Scanner.close();
     }
